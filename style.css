@@ -17,10 +17,6 @@
   --swiper-pagination-color:  #4A4A4A;
 
 }
-#carouselExampleDark{
-  display: block;
-  top:70px;
-}
 img, svg {
   vertical-align: middle;
 }
